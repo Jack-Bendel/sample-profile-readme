@@ -6,7 +6,9 @@ Class of 2029
 
 ## ⚒️ Technical Skills
 Programming: Java, Python, React Native, Bash
+
 Applications: Eclipse, VMware/VirtualBox, Microsoft 365
+
 Platforms: Windows, Linux
 ## 🎉 Interests
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?logo=openai&logoColor=white)
